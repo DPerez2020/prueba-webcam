@@ -1,0 +1,15 @@
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\prueba webcam.exe.config
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\prueba webcam.exe
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\prueba webcam.pdb
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.dll
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.Video.dll
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.xml
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.Video.xml
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba webcam.csprojResolveAssemblyReference.cache
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba_webcam.Form1.resources
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba_webcam.Properties.Resources.resources
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba webcam.csproj.GenerateResource.Cache
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba webcam.exe
+C:\Users\Dawin Perez\Desktop\prueba webcam\prueba webcam\obj\Debug\prueba webcam.pdb
